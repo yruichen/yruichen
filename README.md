@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# Hi there, I'm <a href="https://github.com/yruichen">YRui Chen</a> 👋
+# Hi there, I'm <a href="https://yruichen.github.io/yrhome/">YRui Chen</a> 👋
 
 ### 🎓 Sophomore @ Guangdong University of Technology
 
