@@ -1,6 +1,3 @@
-<div align="center">
-<!-- 顶部宽屏背景动图 -->
-<img src="./assets/header.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="3DGS Rendering Header" />
 # 👨‍🔬 Yingrui Chen
 
 **Undergraduate Researcher @ GDUT** | **3D Computer Vision & Neural Rendering**
