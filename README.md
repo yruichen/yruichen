@@ -1,42 +1,39 @@
 <div align="center">
+<!-- 顶部宽屏背景动图 -->
+<img src="./assets/header.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="3DGS Rendering Header" />
+# 👨‍🔬 Yingrui Chen
 
+**Undergraduate Researcher @ GDUT** | **3D Computer Vision & Neural Rendering**
 
-# Hi there, I'm <a href="https://yruichen.github.io/yrhome/">YRui Chen</a> 👋
+[![Personal Website](https://img.shields.io/badge/Academic-Website-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://yruichen.github.io/yrhome/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--5164--9808-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-5164-9808)
+[![GitHub](https://img.shields.io/badge/GitHub-yruichen-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yruichen)
 
-### 🎓 Sophomore @ Guangdong University of Technology
-
-<a href="https://yruichen.github.io/yrhome/">
-  <img src="https://img.shields.io/badge/✨_Visit_My_Personal_Website-Click_Here-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website" height="50" />
-</a>
-
-> **"不畏浮云遮望眼，自缘身在最高层"**
+</div>
 
 ---
 
-### 🔭 Research Interests
+### 🔍 Research Focus
 
-I am currently focusing on **Deep Learning** with a specific interest in:
+My research resides at the intersection of **Computer Vision** and **Neural Rendering**. I am particularly interested in efficient 3D scene representation and reconstruction:
 
-|  👁️ Computer Vision  | 🔄 Cross-Modal Learning | 🤖 Machine Learning  |
-| :-----------------: | :--------------------: | :-----------------: |
-| Image Understanding |    V&L Interaction     | Theory & Algorithms |
+*   **Neural Graphics:** 3D/2D Gaussian Splatting (3DGS/2DGS), SLAM, and Neural Radiance Fields (NeRF).
+*   **Scene Understanding:** Large-scale 3D reconstruction, surface reconstruction, and structural inference.
+*   **Scientific Computing:** Optimization algorithms for high-dimensional biological data and physical-based rendering.
 
+---
 
-### 🛠️ Tech Stack & Tools
+### 🚀 Active Projects & Implementations
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+*   **[HorizonGS / 2DGS]**: Deep dive into Gaussian Splatting optimization and high-fidelity surface reconstruction.
 
+---
 
-### 📫 Connect with Me
+### 📊 GitHub Stats
 
-<a href="https://yruichen.github.io/yrhome/">
-  <img src="https://img.shields.io/badge/Website-yruichen.github.io-blue?style=flat-square&logo=google-chrome" alt="Website">
-</a>
-<a href="https://github.com/yruichen">
-  <img src="https://img.shields.io/badge/GitHub-yruichen-181717?style=flat-square&logo=github" alt="GitHub">
-</a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yruichen&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yruichen&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
