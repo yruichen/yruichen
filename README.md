@@ -2,7 +2,7 @@
 
 **Undergraduate Researcher @ GDUT** | **3D Computer Vision & Neural Rendering**
 
-[![Personal Website](https://img.shields.io/badge/Academic-Website-blue?style=flat-square&logo=google-chrome&logoColor=white)]((https://yruichen-homepage.vercel.app)
+[![Personal Website](https://img.shields.io/badge/Academic-Website-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://yruichen-homepage.vercel.app)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--5164--9808-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-5164-9808)
 [![GitHub](https://img.shields.io/badge/GitHub-yruichen-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yruichen)
 
